@@ -1,0 +1,43 @@
+[
+  {
+    "name": "History",
+    "description": "testgaga",
+    "questions": [
+      {
+        "label": "100",
+        "q": "Frage 1",
+        "a": "answers/frage1.html"
+      },
+      {
+        "label": "200",
+        "q": "Frage 2",
+        "a": "answers/frage1.html"
+      },
+      {
+        "label": "300",
+        "q": "Frage 3",
+        "a": "answers/frage1.html"
+      },
+      {
+        "label": "400",
+        "q": "Frage 4",
+        "a": "answers/frage1.html"
+      }
+    ]
+  },
+  {
+    "name": "Fun",
+    "description": "testgaga",
+    "questions": []
+  },
+  {
+    "name": "Linux",
+    "description": "testgaga",
+    "questions": []
+  },
+  {
+    "name": "Code",
+    "description": "testgaga",
+    "questions": []
+  }
+]
