@@ -39,6 +39,10 @@ button.question {
     text-align: center;
 }
 
+#answer-modal-dialog {
+    width: 90%;
+}
+
 
 
 
