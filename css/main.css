@@ -1,8 +1,43 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
 
+.navbar-header {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.col-md-2-5 {
+    width: 20%;
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.category {
+    text-align: center;
+}
+
+button.question {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.modal-header {
+    min-height: 50px;
+}
+
+.modal-frage {
+    font-size: 30px;
+    text-align: center;
+}
+
+.modal-footer {
+    text-align: center;
+}
 
 
 
