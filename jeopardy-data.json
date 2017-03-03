@@ -108,8 +108,8 @@
       },
       {
         "label": "300",
-        "q": "Frage 3",
-        "a": "answers/frage1.html"
+        "q": "Was ist das Logo von Linux",
+        "a": "answers/fun/tux.html"
       },
       {
         "label": "400",
