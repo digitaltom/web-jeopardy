@@ -113,8 +113,8 @@
       },
       {
         "label": "400",
-        "q": "Frage 4",
-        "a": "answers/frage1.html"
+        "q": "Was ist die Antwort 'nach dem Leben, dem Universum und dem ganzen Rest'",
+        "a": "answers/fun/42.html"
       },
       {
         "label": "500",
