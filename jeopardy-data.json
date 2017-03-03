@@ -15,8 +15,8 @@
       },
       {
         "label": "300",
-        "q": "Zu welchem Konzern gehört SUSE?",
-        "a": "answers/history/microfocus.html"
+        "q": "Wie heißt die jährlich stattfindende SUSE Konferenz?",
+        "a": "answers/history/susecon.html"
       },
       {
         "label": "400",
@@ -30,8 +30,8 @@
       },
       {
         "label": "600",
-        "q": "Welche andere bekannte Firma gehört zum Microfocus Konzern?",
-        "a": "Borland"
+        "q": "Zu welchem Konzern gehört SUSE und welche andere bekannte Firma gehört zum Konzern?",
+        "a": "answers/history/microfocus.html"
       },
       {
         "label": "700",
@@ -133,8 +133,8 @@
       },
       {
         "label": "500",
-        "q": "Frage 5",
-        "a": "answers/frage1.html"
+        "q": "What does the chameleon say?",
+        "a": "answers/fun/chameleon.html"
       }
     ]
   },
