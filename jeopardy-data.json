@@ -82,8 +82,8 @@
       },
       {
         "label": "400",
-        "q": "Frage 4",
-        "a": "answers/frage1.html"
+        "q": "Welches Paketverwaltungssystem benutzt SUSE Linux Enterprise bzw. openSUSE?",
+        "a": "answers/tech/rpm.html"
       },
       {
         "label": "500",
