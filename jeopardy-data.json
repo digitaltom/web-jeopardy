@@ -103,8 +103,8 @@
       },
       {
         "label": "200",
-        "q": "Frage 2",
-        "a": "answers/frage1.html"
+        "q": "Was ist das SUSE Logo?",
+        "a": "answers/fun/chameleon.html"
       },
       {
         "label": "300",
