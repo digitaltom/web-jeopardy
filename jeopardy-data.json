@@ -144,8 +144,8 @@
       },
       {
         "label": "400",
-        "q": "Frage 4",
-        "a": "answers/frage1.html"
+        "q": "Wer gründete 1985 die Free Software Foundation?",
+        "a": "answers/people/stallman.html"
       },
       {
         "label": "500",
