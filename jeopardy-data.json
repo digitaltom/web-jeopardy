@@ -139,8 +139,8 @@
       },
       {
         "label": "300",
-        "q": "Frage 3",
-        "a": "answers/frage1.html"
+        "q": "Wer sind die Gründer von SUSE?",
+        "a": "answers/people/founder.html"
       },
       {
         "label": "400",
