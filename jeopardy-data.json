@@ -20,8 +20,8 @@
       },
       {
         "label": "400",
-        "q": "Frage 4",
-        "a": "answers/frage1.html"
+        "q": "Welche Versionsnummer hatte das erste SUSE Linux?",
+        "a": "answers/history/first-release.html"
       },
       {
         "label": "500",
