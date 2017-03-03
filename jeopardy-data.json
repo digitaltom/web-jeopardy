@@ -36,7 +36,7 @@
     "questions": [
       {
         "label": "100",
-        "q": "Frage zu Agile",
+        "q": "Was ist ein Vorgehensmodell zur agilen Softwareentwicklung das beispielsweise im SUSE Customer Center eingesetzt wird?",
         "a": "answers/products/agile.html"
       },
       {
