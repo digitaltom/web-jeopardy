@@ -149,8 +149,8 @@
       },
       {
         "label": "500",
-        "q": "Frage 5",
-        "a": "answers/frage1.html"
+        "q": "Wer ist der Maintainer des stabiles Linux Zweiges der früher einmal bei SUSE gearbeitet hat?",
+        "a": "answers/people/kroah-hartman.html"
       }
     ]
   }
