@@ -33,7 +33,11 @@ $(document).on('click', '.question', function(){
   $( this ).removeClass('btn-success')
   $( this ).addClass('btn-secondary')
   $('#question-modal').find('.modal-frage').html($(this).data('question'))
-  $('#answer-modal').find('.modal-body').load($(this).data('answer'))
+  if ($(this).data('answer').includes('.html')) {
+    $('#answer-modal').find('.modal-body').load($(this).data('answer'))
+  } else {
+    $('#answer-modal').find('.modal-body').html($(this).data('answer'))
+  }
 })
 
 $(document).on('click', '#answer-modal', function(){

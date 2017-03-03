@@ -30,13 +30,17 @@ button.question {
     min-height: 50px;
 }
 
-.modal-frage {
+.modal-frage, .modal-antwort {
     font-size: 30px;
     text-align: center;
 }
 
 .modal-footer {
     text-align: center;
+}
+
+#question-modal-dialog {
+    width: 60%;
 }
 
 #answer-modal-dialog {

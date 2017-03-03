@@ -57,7 +57,7 @@
       {
         "label": "500",
         "q": "Was ist die aktuelle Version von SUSE Linux Enterprise?",
-        "a": "answers/products/sles12.html"
+        "a": "answers/products/sles.html"
       }
     ]
   },
@@ -87,7 +87,7 @@
       },
       {
         "label": "500",
-        "q": "Frage 5",
+        "q": "Hello World in verschiedenen Programmiersprachen z.b. echo 'Hello World' -> bash",
         "a": "answers/frage1.html"
       }
     ]
@@ -113,8 +113,8 @@
       },
       {
         "label": "400",
-        "q": "Was ist die Antwort 'nach dem Leben, dem Universum und dem ganzen Rest'",
-        "a": "answers/fun/42.html"
+        "q": "Was ist die Antwort auf die Frage 'nach dem Leben, dem Universum und dem ganzen Rest'",
+        "a": "42"
       },
       {
         "label": "500",
