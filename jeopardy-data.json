@@ -134,8 +134,8 @@
       },
       {
         "label": "200",
-        "q": "Frage 2",
-        "a": "answers/frage1.html"
+        "q": "Wer ist aktuell der 'President of Global Engineering' bei SUSE?",
+        "a": "answers/people/flaxa.html"
       },
       {
         "label": "300",
