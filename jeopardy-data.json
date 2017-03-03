@@ -46,8 +46,8 @@
       },
       {
         "label": "300",
-        "q": "Frage 3",
-        "a": "answers/frage1.html"
+        "q": "Wie heißt die Entwicklungsplattform mit der die SUSE Softwarepakete für verschiedene Linux Distributionen produziert?",
+        "a": "answers/products/obs.html"
       },
       {
         "label": "400",
