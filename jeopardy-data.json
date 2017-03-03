@@ -51,8 +51,8 @@
       },
       {
         "label": "400",
-        "q": "Frage 4",
-        "a": "answers/frage1.html"
+        "q": "Wie heißt das von der SUSE entwickelte Testframework mit der SUSE Linux Enterprise und openSUSE getestet wird?",
+        "a": "answers/products/openqa.html"
       },
       {
         "label": "500",
