@@ -56,8 +56,8 @@
       },
       {
         "label": "500",
-        "q": "Frage 5",
-        "a": "answers/frage1.html"
+        "q": "Was ist die aktuelle Version von SUSE Linux Enterprise?",
+        "a": "answers/products/sles12.html"
       }
     ]
   },
