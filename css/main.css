@@ -33,6 +33,13 @@ button.question {
 .modal-frage, .modal-antwort {
     font-size: 30px;
     text-align: center;
+    font-weight: bold;
+}
+
+.modal-frage > pre, .modal-antwort > pre {
+    font-size: inherit;
+    margin: 30px;
+    font-weight: bold;
 }
 
 .modal-footer {

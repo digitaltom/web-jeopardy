@@ -27,6 +27,16 @@
         "label": "500",
         "q": "Welche Fernehsendung im ZDF berichtete über SUSE aus der Frauen-Perspektive?",
         "a": "answers/history/monalisa.html"
+      },
+      {
+        "label": "600",
+        "q": "Welche andere bekannte Firma gehört zum Microfocus Konzern?",
+        "a": "Borland"
+      },
+      {
+        "label": "700",
+        "q": "Welches SUSE Repository hat die meisten 'Stars' auf github.com?",
+        "a": "Portus"
       }
     ]
   },
@@ -58,6 +68,11 @@
         "label": "500",
         "q": "Was ist die aktuelle Version von SUSE Linux Enterprise?",
         "a": "answers/products/sles.html"
+      },
+      {
+        "label": "600",
+        "q": "Welches Paketverwaltungssystem benutzt SUSE Linux Enterprise bzw. openSUSE?",
+        "a": "answers/tech/rpm.html"
       }
     ]
   },
@@ -67,28 +82,28 @@
     "questions": [
       {
         "label": "100",
-        "q": "Frage 1",
-        "a": "answers/frage1.html"
+        "q": "Welche Datei beinhaltet: <pre>root:x:0:</pre>",
+        "a": "/etc/group"
       },
       {
         "label": "200",
-        "q": "Frage 2",
-        "a": "answers/frage1.html"
+        "q": "Which programming language is this: <pre>package main<br><br>import &quot;fmt&quot;<br><br>func main() {<br> fmt.Println(&quot;Hello World!&quot;)<br>}</pre>",
+        "a": "Go"
       },
       {
         "label": "300",
-        "q": "Frage 3",
-        "a": "answers/frage1.html"
+        "q": "Wie schreibe ich ein 'Hello World' Programm in Bash?",
+        "a": "<pre>#!/bin/bash<br>echo 'Hello, World!'</pre>"
       },
       {
         "label": "400",
-        "q": "Welches Paketverwaltungssystem benutzt SUSE Linux Enterprise bzw. openSUSE?",
-        "a": "answers/tech/rpm.html"
+        "q": "",
+        "a": ""
       },
       {
         "label": "500",
-        "q": "Hello World in verschiedenen Programmiersprachen z.b. echo 'Hello World' -> bash",
-        "a": "answers/frage1.html"
+        "q": "What is the SSH port?",
+        "a": "22"
       }
     ]
   },

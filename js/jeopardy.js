@@ -41,6 +41,9 @@ $(document).on('click', '.question', function(){
 })
 
 $(document).on('click', '#answer-modal', function(){
-  $("#question-modal").modal('hide')
   $("#answer-modal").modal('hide')
+})
+
+$(document).on('click', '#frage-weiter', function(){
+  $("#question-modal").modal('hide')
 })
