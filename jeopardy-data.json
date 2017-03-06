@@ -99,6 +99,11 @@
         "label": "500",
         "q": "Was ist der standardmäßige SSH Port?",
         "a": "22"
+      },
+      {
+        "label": "600",
+        "q": "Was ist die 'default' Desktopumgebung in SUSE Linux Enterprise?",
+        "a": "Gnome"
       }
     ]
   },
