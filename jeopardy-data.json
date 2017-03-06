@@ -174,8 +174,8 @@
       },
       {
         "label": "600",
-        "q": "Wer ist der Maintainer des stabiles Linux Zweiges der früher einmal bei SUSE gearbeitet hat?",
-        "a": "answers/people/kroah-hartman.html"
+        "q": "Von wem stammt das berühmte Zitat 'Linux is obsolete'?",
+        "a": "answers/people/tanenbaum.html"
       }
     ]
   }
