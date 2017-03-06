@@ -129,7 +129,7 @@
       {
         "label": "400",
         "q": "Was ist die Antwort auf die Frage 'nach dem Leben, dem Universum und dem ganzen Rest'",
-        "a": "42"
+        "a": "answers/fun/42.html"
       },
       {
         "label": "500",
