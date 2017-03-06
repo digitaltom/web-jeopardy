@@ -135,6 +135,11 @@
         "label": "500",
         "q": "What does the chameleon say?",
         "a": "answers/fun/chameleon.html"
+      },
+      {
+        "label": "600",
+        "q": "Was ist das zweite 'Programm' das der Erfinder von Linux nach sich selbst benannt hat?",
+        "a": "Git"
       }
     ]
   },
@@ -164,6 +169,11 @@
       },
       {
         "label": "500",
+        "q": "Wer ist der Maintainer des stabiles Linux Zweiges der früher einmal bei SUSE gearbeitet hat?",
+        "a": "answers/people/kroah-hartman.html"
+      },
+      {
+        "label": "600",
         "q": "Wer ist der Maintainer des stabiles Linux Zweiges der früher einmal bei SUSE gearbeitet hat?",
         "a": "answers/people/kroah-hartman.html"
       }
