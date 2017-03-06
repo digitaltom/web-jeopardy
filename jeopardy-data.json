@@ -32,11 +32,6 @@
         "label": "600",
         "q": "Zu welchem Konzern gehört SUSE und welche andere bekannte Firma gehört zum Konzern?",
         "a": "answers/history/microfocus.html"
-      },
-      {
-        "label": "700",
-        "q": "Welches SUSE Repository hat die meisten 'Stars' auf github.com?",
-        "a": "Portus"
       }
     ]
   },
@@ -71,8 +66,8 @@
       },
       {
         "label": "600",
-        "q": "Welches Paketverwaltungssystem benutzt SUSE Linux Enterprise bzw. openSUSE?",
-        "a": "answers/tech/rpm.html"
+        "q": "Welches SUSE Repository hat die meisten 'Stars' auf github.com?",
+        "a": "Portus"
       }
     ]
   },
@@ -97,8 +92,8 @@
       },
       {
         "label": "400",
-        "q": "",
-        "a": ""
+        "q": "Welches Paketverwaltungssystem benutzt SUSE Linux Enterprise bzw. openSUSE?",
+        "a": "answers/tech/rpm.html"
       },
       {
         "label": "500",
