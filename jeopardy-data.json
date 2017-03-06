@@ -102,7 +102,7 @@
       },
       {
         "label": "500",
-        "q": "What is the SSH port?",
+        "q": "Was ist der standardmäßige SSH Port?",
         "a": "22"
       }
     ]
