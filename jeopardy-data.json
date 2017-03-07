@@ -159,24 +159,24 @@
       },
       {
         "label": "300",
-        "q": "Wer sind die Gründer von SUSE?",
-        "a": "answers/people/founder.html"
-      },
-      {
-        "label": "400",
         "q": "Wer gründete 1985 die Free Software Foundation?",
         "a": "answers/people/stallman.html"
       },
       {
-        "label": "500",
+        "label": "400",
         "q": "Wer ist der Maintainer des stabiles Linux Zweiges der früher einmal bei SUSE gearbeitet hat?",
         "a": "answers/people/kroah-hartman.html"
       },
       {
-        "label": "600",
+        "label": "500",
         "q": "Von wem stammt das berühmte Zitat 'Linux is obsolete'?",
         "a": "answers/people/tanenbaum.html"
-      }
+      },
+      {
+        "label": "600",
+        "q": "Wer sind die Gründer von SUSE?",
+        "a": "answers/people/founder.html"
+      },
     ]
   }
 ]
