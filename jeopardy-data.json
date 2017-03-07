@@ -78,7 +78,7 @@
       {
         "label": "100",
         "q": "Welche Datei beinhaltet: <pre>root:x:0:</pre>",
-        "a": "/etc/group"
+        "a": "answers/tech/group.html"
       },
       {
         "label": "200",
