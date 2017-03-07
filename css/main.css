@@ -46,6 +46,14 @@ button.question {
     font-weight: bold;
 }
 
+.modal-antwort > h1 {
+    font-weight: bold;
+}
+
+.modal-antwort > img {
+    margin: 15px;
+}
+
 .modal-frage > pre, .modal-antwort > pre {
     font-size: inherit;
     margin: 30px;
