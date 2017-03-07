@@ -82,8 +82,8 @@
       },
       {
         "label": "200",
-        "q": "Which programming language is this: <pre>package main<br><br>import &quot;fmt&quot;<br><br>func main() {<br> fmt.Println(&quot;Hello World!&quot;)<br>}</pre>",
-        "a": "Go"
+        "q": "Welche Programmiersprache ist das: <pre>package main<br><br>import &quot;fmt&quot;<br><br>func main() {<br> fmt.Println(&quot;Hello World!&quot;)<br>}</pre>",
+        "a": "answers/tech/go.html"
       },
       {
         "label": "300",
@@ -98,12 +98,12 @@
       {
         "label": "500",
         "q": "Was ist der standardmäßige SSH Port?",
-        "a": "22"
+        "a": "answers/tech/ssh.html"
       },
       {
         "label": "600",
         "q": "Welches SUSE Repository hat die meisten 'Stars' auf github.com?",
-        "a": "Portus"
+        "a": "answers/tech/portus.html"
       }
     ]
   },

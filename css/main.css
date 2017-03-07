@@ -58,6 +58,7 @@ button.question {
     font-size: inherit;
     margin: 30px;
     font-weight: bold;
+    text-align: left;
 }
 
 .modal-footer {
