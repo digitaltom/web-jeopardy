@@ -133,11 +133,6 @@
       },
       {
         "label": "500",
-        "q": "What does the chameleon say?",
-        "a": "answers/fun/chameleon.html"
-      },
-      {
-        "label": "600",
         "q": "Was ist das zweite 'Programm' das der Erfinder von Linux nach sich selbst benannt hat?",
         "a": "answers/fun/git.html"
       }
@@ -176,7 +171,7 @@
         "label": "600",
         "q": "Wer sind die Gründer von SUSE?",
         "a": "answers/people/founder.html"
-      },
+      }
     ]
   }
 ]
