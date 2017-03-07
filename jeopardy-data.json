@@ -66,8 +66,8 @@
       },
       {
         "label": "600",
-        "q": "Welches SUSE Repository hat die meisten 'Stars' auf github.com?",
-        "a": "Portus"
+        "q": "SAP Frage",
+        "a": "answers/products/sap.html"
       }
     ]
   },
@@ -102,8 +102,8 @@
       },
       {
         "label": "600",
-        "q": "Was ist die 'default' Desktopumgebung in SUSE Linux Enterprise?",
-        "a": "Gnome"
+        "q": "Welches SUSE Repository hat die meisten 'Stars' auf github.com?",
+        "a": "Portus"
       }
     ]
   },
