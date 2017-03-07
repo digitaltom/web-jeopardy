@@ -135,7 +135,13 @@
         "label": "500",
         "q": "Was ist das zweite 'Programm' das der Erfinder von Linux nach sich selbst benannt hat?",
         "a": "answers/fun/git.html"
+      },
+      {
+        "label": "600",
+        "q": "Welches Kommando führt Befehle unter einem anderen Benutzeraccount aus?",
+        "a": "answers/fun/sudo.html"
       }
+
     ]
   },
   {
