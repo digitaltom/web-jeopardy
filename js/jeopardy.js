@@ -1,7 +1,15 @@
 // https://etherpad.nue.suse.com/p/praxistag-jeopardy
-var dataEndpoint = "jeopardy-data.json";
 
-$.getJSON(dataEndpoint)
+$.urlParam = function(name){
+  var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+  if(results) {
+    return results[1];
+  } else {
+    return "jeopardy-data.json";
+  }
+}
+
+$.getJSON($.urlParam('file'))
   .done(function (data) {
     console.log(data)
     $.each(data, function (id, category) {
