@@ -1,0 +1,106 @@
+[
+  {
+    "name": "History",
+    "description": "History of SUSE",
+    "questions": [
+      {
+        "label": "100",
+        "q": "What is the name of the event where SUSE engineers experiment, innovate and learn interruption-free?",
+        "a": "answers/history/hackweek.html"
+      },
+      {
+        "label": "200",
+        "q": " When was SUSE founded?",
+        "a": "answers/history/suse.html"
+      },
+      {
+        "label": "300",
+        "q": "What are the names of the annual SUSE Conferences?",
+        "a": "answers/history/susecon.html"
+      },
+      {
+        "label": "400",
+        "q": "To which enterprise (group of companies) does SUSE belong?",
+        "a": "answers/history/microfocus.html"
+      }
+    ]
+  },
+  {
+    "name": "Products",
+    "description": "What we create",
+    "questions": [
+      {
+        "label": "100",
+        "q": "What is the name of the Open Source project behind SUSE Linux Enterprise?",
+        "a": "answers/products/opensuse.html"
+      },
+      {
+        "label": "200",
+        "q": "What is the name of the SUSE tool to build and distribute packages?",
+        "a": "answers/products/obs.html"
+      },
+      {
+        "label": "300",
+        "q": "What is the name of the testframework SUSE developed to test openSUSE and SUSE Linux Enterprise?",
+        "a": "answers/products/openqa.html"
+      },
+      {
+        "label": "400",
+        "q": "What is the current version of SUSE Linux Enterprise?",
+        "a": "answers/products/sles.html"
+      }
+    ]
+  },
+  {
+    "name": "Fun",
+    "description": "Haha",
+    "questions": [
+      {
+        "label": "100",
+        "q": "What is the SUSE company logo?",
+        "a": "answers/fun/chameleon.html"
+      },
+      {
+        "label": "200",
+        "q": "What is the name of the Linux penguin?",
+        "a": "answers/fun/tux.html"
+      },
+      {
+        "label": "300",
+        "q": "What is the 'Answer to the Ultimate Question of Life, the Universe, and Everything'?",
+        "a": "answers/fun/42.html"
+      },
+      {
+        "label": "400",
+        "q": "What is the name of the second program Linus Torvalds, the founder of Linux, named after himself?",
+        "a": "answers/fun/git.html"
+      }
+    ]
+  },
+  {
+    "name": "People",
+    "description": "Linux celebs ;-)",
+    "questions": [
+      {
+        "label": "100",
+        "q": "Who is the founder of Linux?",
+        "a": "answers/people/linus.html"
+      },
+      {
+        "label": "200",
+        "q": "Who founded 1985 the Free Software Foundation?",
+        "a": "answers/people/stallman.html"
+      },
+      {
+        "label": "300",
+        "q": "Who made the quoatation 'Linux is obsolete'?",
+        "a": "answers/people/tanenbaum.html"
+      },
+      {
+        "label": "400",
+        "q": "Who are the founders of SUSE?",
+        "a": "answers/people/founder.html"
+      }
+    ]
+  }
+]
