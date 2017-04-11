@@ -1,22 +1,22 @@
-// https://etherpad.nue.suse.com/p/praxistag-jeopardy
-
 $.urlParam = function(name){
   var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
   if(results) {
-    return results[1];
+    return results[1]
   } else {
-    return "jeopardy-data.json";
+    return null
   }
 }
 
-$.getJSON($.urlParam('file'))
+$.getJSON($.urlParam('file') || 'jeopardy-data-de.json')
   .done(function (data) {
     console.log(data)
+    var column_width = new String(12 / data.length).replace(".", "-")
     $.each(data, function (id, category) {
       console.log(category)
       category_div = $('.category').first().clone()
       category_div.hide()
       category_div.removeClass('hidden')
+      category_div.addClass('col-md-' + column_width)
       category_div.appendTo("#category-container")
       category_div.find(".category-heading").html(category['name'])
       category_div.find(".category-desc").html(category['description'])
