@@ -128,8 +128,8 @@
       },
       {
         "label": "400",
-        "q": "Was ist die Antwort auf die Frage 'nach dem Leben, dem Universum und dem ganzen Rest'",
-        "a": "answers/de/fun/42.html"
+        "q": "Wie lautet der Name der SUSE Band?",
+        "a": "answers/de/fun/suse_loud.html"
       },
       {
         "label": "500",
