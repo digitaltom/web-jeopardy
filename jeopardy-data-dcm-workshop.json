@@ -1,79 +1,94 @@
 [
   {
-    "name": "History",
-    "description": "History of SUSE",
+    "name": "SUSE",
+    "description": "History and products",
     "questions": [
       {
         "label": "100",
-        "q": "What is the name of the event where SUSE engineers experiment, innovate and learn interruption-free?",
-        "a": "answers/dcm/history/hackweek.html"
-      },
-      {
-        "label": "200",
-        "q": " When was SUSE founded?",
-        "a": "answers/dcm/history/suse.html"
-      },
-      {
-        "label": "300",
-        "q": "What are the names of the annual SUSE Conferences?",
-        "a": "answers/dcm/history/susecon.html"
-      },
-      {
-        "label": "400",
-        "q": "To which enterprise (group of companies) does SUSE belong?",
-        "a": "answers/dcm/history/microfocus.html"
-      }
-    ]
-  },
-  {
-    "name": "Products",
-    "description": "What we create",
-    "questions": [
-      {
-        "label": "100",
-        "q": "What is the name of the Open Source project behind SUSE Linux Enterprise?",
-        "a": "answers/dcm/products/opensuse.html"
-      },
-      {
-        "label": "200",
         "q": "What is the name of the SUSE tool to build and distribute packages?",
         "a": "answers/dcm/products/obs.html"
       },
       {
+        "label": "200",
+        "q": "What was the version of the first (X.Y-version) SUSE Linux release ?",
+        "a": "answers/dcm/history/first-release.html"
+      },
+      {
         "label": "300",
+        "q": " When was SUSE founded?",
+        "a": "answers/dcm/history/suse.html"
+      },
+      {
+        "label": "400",
+        "q": "What is the theme of this year's SUSECon?",
+        "a": "answers/dcm/history/susecon.html"
+      },
+      {
+        "label": "500",
+        "q": "What was the very first name of <i>SMT</i>",
+        "a": "answers/dcm/products/yep.html"
+      }
+    ]
+  },
+    {
+    "name": "Tech",
+    "description": "Show your skills",
+    "questions": [
+      {
+        "label": "100",
         "q": "What is the name of the testframework SUSE developed to test openSUSE and SUSE Linux Enterprise?",
         "a": "answers/dcm/products/openqa.html"
       },
       {
+        "label": "200",
+        "q": "Which programming language is this: <pre>package main<br><br>import &quot;fmt&quot;<br><br>func main() {<br> fmt.Println(&quot;Hello World!&quot;)<br>}</pre>",
+        "a": "answers/dcm/tech/go.html"
+      }, 
+      {
+        "label": "300",
+        "q": "From which program is this line: <br/><pre>#error 'Here's a nickel kid. \\<br/>Go buy yourself a real computer.'</pre>",
+        "a": "answers/dcm/tech/kernel.html"
+      },
+      {
         "label": "400",
-        "q": "What is the current version of SUSE Linux Enterprise?",
-        "a": "answers/dcm/products/sles.html"
+        "q": "What does <i>zypp</i> in <i>libzypp</i> and <i>zypper</i> stand for ?",
+        "a": "answers/dcm/tech/zypp.html"
+      },
+      {
+        "label": "500",
+        "q": "Which SUSE repository has the most 'Stars' on github.com",
+        "a": "answers/dcm/tech/portus.html"
       }
-    ]
-  },
+      ]
+    },
   {
     "name": "Fun",
     "description": "Haha",
     "questions": [
       {
         "label": "100",
-        "q": "What is the SUSE company logo?",
-        "a": "answers/dcm/fun/chameleon.html"
+        "q": "Which command is used to run programs under another user account?",
+        "a": "answers/dcm/fun/sudo.html"
       },
       {
         "label": "200",
-        "q": "What is the name of the Linux penguin?",
-        "a": "answers/dcm/fun/tux.html"
+        "q": "What's the name of the SUSE beer?",
+        "a": "answers/dcm/fun/beer.html"
       },
       {
         "label": "300",
-        "q": "What is the 'Answer to the Ultimate Question of Life, the Universe, and Everything'?",
-        "a": "answers/dcm/fun/42.html"
+        "q": "Which TV show in the german channel ZDF made a report about 'Women in tech (at SUSE)'",
+        "a": "answers/dcm/history/monalisa.html"
       },
       {
         "label": "400",
         "q": "What is the name of the second program Linus Torvalds, the founder of Linux, named after himself?",
         "a": "answers/dcm/fun/git.html"
+      },
+      {
+        "label": "500",
+        "q": "What happens if you run:<br/><pre>$ zypper moo</pre>?",
+        "a": "answers/dcm/fun/moo.html"
       }
     ]
   },
@@ -83,8 +98,8 @@
     "questions": [
       {
         "label": "100",
-        "q": "Who is the founder of Linux?",
-        "a": "answers/dcm/people/linus.html"
+        "q": "Who is the maintainer of the stable Linux tree that was working at SUSE before?",
+        "a": "answers/dcm/people/kroah-hartman.html"
       },
       {
         "label": "200",
@@ -93,14 +108,51 @@
       },
       {
         "label": "300",
-        "q": "Who made the quoatation 'Linux is obsolete'?",
+        "q": "Who made the quotation 'Linux is obsolete'?",
         "a": "answers/dcm/people/tanenbaum.html"
       },
       {
         "label": "400",
         "q": "Who are the founders of SUSE?",
         "a": "answers/dcm/people/founder.html"
+      },
+      {
+        "label": "500",
+        "q": "Who was SUSE's employee #2, now developer of zypper and libzypp?",
+        "a": "answers/dcm/people/andres.html"
       }
+    ]
+  }, 
+    {
+    "name": "DCM Projects",
+    "description": "Our department",
+    "questions": [
+      {
+        "label": "100",
+        "q": "What are the two main open source software projects that SUSE Manager is based on?",
+        "a": "answers/dcm/projects/spacewalk.html"
+      },
+      {
+        "label": "200",
+        "q": "Which of the founders of SUSE is nowadays a member of the SUSE Manager Team?",
+        "a": "answers/dcm/projects/mantel.html"
+      },
+      {
+        "label": "300",
+        "q": "Who is the Guru from SUSE Manager team who can answer nearly any question that a developer might have? Famous quotation: 'If you find a bug, make a bug (report)!'",
+        "a": "answers/dcm/projects/calmer.html"
+      },
+      {
+        "label": "400",
+        "q": "How many subscriptions are managed in SCC?",
+        "a": "answers/dcm/projects/subscriptions.html"
+      },
+      {
+        "label": "500",
+        "q": "How many nationalities/countries do we have represented in the DCM department?",
+        "a": "answers/dcm/projects/nationalities.html"
+      }
+
     ]
   }
 ]
