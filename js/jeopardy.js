@@ -40,7 +40,7 @@ $(document).on('click', '.question', function(){
   console.log($(this).data('question'))
   $( this ).removeClass('btn-success')
   $( this ).addClass('btn-secondary')
-  $('#question-modal').find('.modal-frage').html($(this).data('question'))
+  $('#question-modal').find('.modal-frage').html('<pre>' + $(this).data('question') + '</pre>')
   if ($(this).data('answer').includes('.html')) {
     $('#answer-modal').find('.modal-body').load($(this).data('answer'))
   } else {

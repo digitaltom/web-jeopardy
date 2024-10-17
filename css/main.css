@@ -61,6 +61,15 @@ button.question {
     text-align: left;
 }
 
+.modal-frage > pre {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: unset;
+    border: unset;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    text-align: center;
+}
+
 .modal-footer {
     text-align: center;
 }

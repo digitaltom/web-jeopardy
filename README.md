@@ -9,3 +9,4 @@ separate html files (in the `answers/` folder).
 Give it a try: [German](https://digitaltom.github.io/web-jeopardy/) -
 [English](https://digitaltom.github.io/web-jeopardy/?file=jeopardy-data-en.json) version
 
+Or run locally with: `ruby -run -e httpd -- . -p 8000`
